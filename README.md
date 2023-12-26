@@ -7,16 +7,16 @@ This section list tools, technology and stack for modern programming
 ### Fronend
 
 1. Micro Frontend
-  - https://github.com/jherr/create-mf-app
-  - https://dev.to/devsmitra/the-complete-guide-to-micro-frontend-with-reactjs-for-2022-36b2
+    - https://github.com/jherr/create-mf-app
+    - https://dev.to/devsmitra/the-complete-guide-to-micro-frontend-with-reactjs-for-2022-36b2
 
 2. Frontend
-- React
-  - React Admin
-  - Refine
-- HTMX
-   - https://htmx.org/docs/
-   - https://dev.to/calvinmclean/how-to-build-a-web-application-with-htmx-and-go-3183   
+  - React
+      - React Admin
+      - Refine
+  - HTMX
+     - https://htmx.org/docs/
+     - https://dev.to/calvinmclean/how-to-build-a-web-application-with-htmx-and-go-3183   
     
 ### Design Framework
 
@@ -37,8 +37,8 @@ This section list tools, technology and stack for modern programming
 ### Mobile
 
 1. React Native
-  1. Expo
-  2. React Native Paper
+    1. Expo
+    2. React Native Paper
 4. Swift
 5. Flutter
 
