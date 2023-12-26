@@ -12,6 +12,8 @@ This section list tools, technology and stack for modern programming
 
 2. Frontend
 - React
+  - React Admin
+  - Refine
 - HTMX
    - https://htmx.org/docs/
    - https://dev.to/calvinmclean/how-to-build-a-web-application-with-htmx-and-go-3183   
@@ -22,7 +24,8 @@ This section list tools, technology and stack for modern programming
 1. Material UI
 2. Chakra
 3. Ant design
-4. Tailwind - https://tailwindcss.com/docs/installation
+4. React native paper
+5. Tailwind - https://tailwindcss.com/docs/installation
 
 ### Backend
 
@@ -30,6 +33,16 @@ This section list tools, technology and stack for modern programming
 2. AWS Lamda
 3. Express.js
 4. Nest.js
+
+### Mobile
+
+1. React Native
+  1. Expo
+  2. React Native Paper
+4. Swift
+5. Flutter
+
+   
 
 ### Testing
 
