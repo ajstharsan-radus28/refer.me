@@ -39,11 +39,10 @@ This section list tools, technology and stack for modern programming
 1. React Native
     1. Expo
     2. React Native Paper
-4. Swift
-5. Flutter
+4. Swift - https://developer.apple.com/swift-playgrounds/
+5. Flutter - https://docs.flutter.dev/get-started/install/linux
 
    
-
 ### Testing
 
 1. Cypress - https://www.cypress.io/
@@ -66,11 +65,20 @@ This section list tools, technology and stack for modern programming
 - Rectar
 - Super linter github action - https://github.com/marketplace/actions/super-linter
 
-### Dev Env
+### DevEnv
 
 1. AWS CDK - https://aws.amazon.com/cdk/
 2. Heroku  - https://www.heroku.com/
 3. Netlify -
 4. Github Codespace - https://github.com/codespaces
 5. gitlab Workspace - https://gitlab.com/groups/workspace/
+
+### Low Code / No Code
+
+1. Airtable 
+2. Baserow (Free)
+3. Zoho Creator
+4. VTAP (vtiger cloud)
+5. Builder.io
+6. AppGyver (SAP) 
 
