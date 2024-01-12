@@ -39,8 +39,9 @@ This section list tools, technology and stack for modern programming
 1. React Native
     1. Expo
     2. React Native Paper
-4. Swift - https://developer.apple.com/swift-playgrounds/
-5. Flutter - https://docs.flutter.dev/get-started/install/linux
+3. Swift - https://developer.apple.com/swift-playgrounds/
+4. Flutter - https://docs.flutter.dev/get-started/install/linux
+5. PWA - https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd  
 
    
 ### Testing
