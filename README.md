@@ -34,6 +34,7 @@ This section list tools, technology and stack for modern programming
 2. AWS Lamda
 3. Express.js
 4. Nest.js
+5. Go
 
 ### Mobile
 
@@ -60,6 +61,7 @@ This section list tools, technology and stack for modern programming
 
 - gitlab Pipeline - https://docs.gitlab.com/ee/ci/environments/
 - Rectar  - https://github.com/rectorphp/rector
+- Netlify - https://www.netlify.com/with/react/
 
 ### Refactoring
 
@@ -71,7 +73,7 @@ This section list tools, technology and stack for modern programming
 
 1. AWS CDK - https://aws.amazon.com/cdk/
 2. Heroku  - https://www.heroku.com/
-3. Netlify -
+3. Netlify - Example, https://www.netlify.com/with/wordpress/
 4. Github Codespace - https://github.com/codespaces
 5. gitlab Workspace - https://gitlab.com/groups/workspace/
 
