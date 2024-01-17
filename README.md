@@ -24,7 +24,7 @@ This section list tools, technology and stack for modern programming
 2. Chakra (Smaller / PWA projects)
 3. Ant design (Enterprise projects mainly for Backend)
 4. React native paper (For mobile apps)
-5. Tailwind - https://tailwindcss.com/docs/installation
+5. Tailwind - https://tailwindcss.com/docs/installation  ( Projects demanding a high degree of customizability and unique design.)
 
 ![UI_FRAMEWORK_COMPARISON](https://miro.medium.com/v2/resize:fit:720/format:webp/1*fImDn84IVR7GTlH3G06HVw.png "UI Framework rating")
 
