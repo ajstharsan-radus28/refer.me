@@ -84,5 +84,23 @@ This section list tools, technology and stack for modern programming
 3. Zoho Creator
 4. VTAP (vtiger cloud)
 5. Builder.io
-6. AppGyver (SAP) 
+6. AppGyver (SAP)
+
+
+## Mail
+
+This section describes handling Transactional and Marketing mails from the applications we develop
+
+### Bulk mails / Campaigns
+There are different alternatives to send emails. Example
+
+1. Amazon SES - This is paid per email, not a fixed up front scheme. Check prices here which is $0.10/1000 emails outbound ( https://aws.amazon.com/ses/pricing/ )
+2. Elastic EMail -  $15 / month, limited to 10000 contacts & 300k mails / month (https://elasticemail.com/email-marketing-pricing)
+3. MailGun - I00000 / month  $35 (https://www.mailgun.com/pricing/ )
+4. Postmark - https://postmarkapp.com/
+   
+   ( Implementation  cost is additional than to subscription plan mentioned above )
+
+Further we better to adapt Bulk email Optimization with recommended best practices (https://support.google.com/mail/answer/10979322?hl=en)
+
 
