@@ -68,6 +68,7 @@ This section list tools, technology and stack for modern programming
 - PHPLint
 - Rectar
 - Super linter github action - https://github.com/marketplace/actions/super-linter
+- ESlint
 
 ### DevEnv
 
