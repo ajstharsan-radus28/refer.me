@@ -49,7 +49,8 @@ This section list tools, technology and stack for modern programming
 ### Testing
 
 1. Cypress - https://www.cypress.io/
-2. Sellenium
+2. SelleniumHQ
+3. Codeception - https://codeception.com/quickstart
 
 ### Deployment
 
