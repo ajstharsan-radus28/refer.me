@@ -105,4 +105,18 @@ There are different alternatives to send emails. Example
 
 Further we better to adapt Bulk email Optimization with recommended best practices (https://support.google.com/mail/answer/10979322?hl=en)
 
+## Business Modeling 
+
+### Diagraming
+
+1. Freeform - Apple
+2. Mermaid - https://mermaid.js.org/syntax/flowchart.html
+3. D2Lang - https://d2lang.com/
+
+### Business Analysis
+
+1. Jira and Confluence
+2. More, Better, Different, Less: A method for regularly reviewing and improving business processes by asking four key questions: what is working for you?
+
+
 
