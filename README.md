@@ -119,4 +119,28 @@ Further we better to adapt Bulk email Optimization with recommended best practic
 2. More, Better, Different, Less: A method for regularly reviewing and improving business processes by asking four key questions: what is working for you?
 
 
+## AI 
+
+We have 2 separate purposes of Utlizing AI models
+1. Generative Text - For development, design, coding, automation, devops and all relevant life cycle processes
+2. Training models - For customized models domain specific.
+
+### Cloud based AI
+
+1. ChatGPT - [openai.chat](https://chatgpt.com/)
+2. Gemini = [gemini.google.com](https://gemini.google.com/)
+
+### On premises
+
+1. LLaMa - From Meta
+2. GPTNeo - https://github.com/EleutherAI/gpt-neox?
+3. BERT
+
+### AutoGPT
+
+- AgentGPT - https://agentgpt.reworkd.ai/
+- BabyAGI
+
+
+
 
