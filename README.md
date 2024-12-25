@@ -125,10 +125,13 @@ We have 2 separate purposes of Utlizing AI models
 1. Generative Text - For development, design, coding, automation, devops and all relevant life cycle processes
 2. Training models - For customized models domain specific.
 
-### Cloud based AI
+### Cloud  AI
 
-1. ChatGPT - [openai.chat](https://chatgpt.com/)
-2. Gemini = [gemini.google.com](https://gemini.google.com/)
+1. ChatGPT  - For generative, coding and technical suggestion [openai.chat](https://chatgpt.com/)
+2. Gemini - Coding and technical suggestion [gemini.google.com](https://gemini.google.com/)
+3. Perplexity - Content writing
+4. Galileo -  UI and diagram designing
+5. V0 - Web application development
 
 ### On premises
 
