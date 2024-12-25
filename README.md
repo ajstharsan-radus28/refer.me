@@ -132,6 +132,7 @@ We have 2 separate purposes of Utlizing AI models
 3. Perplexity - Content writing
 4. Galileo -  UI and diagram designing
 5. V0 - Web application development
+6. [AgentGPT](https://agentgpt.reworkd.ai) - An AutoGPT (AGPT) agent for Goal oriented AI solution including automated tasks 
 
 ### On premises
 
