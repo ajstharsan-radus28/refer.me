@@ -136,7 +136,7 @@ We have 2 separate purposes of Utlizing AI models
 
 ### On premises
 
-1. LLaMa - From Meta
+1. LLaMa - From Meta [Llama downloads](https://www.llama.com/llama-downloads/)
 2. GPTNeo - https://github.com/EleutherAI/gpt-neox?
 3. BERT
 
