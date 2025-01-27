@@ -80,13 +80,14 @@ This section list tools, technology and stack for modern programming
 5. gitlab Workspace - https://gitlab.com/groups/workspace/
 
 ### Low Code / No Code
-
+These are example platforms which can be utizied on different  purposes.
 1. Airtable 
 2. Baserow (Free)
 3. Zoho Creator
 4. VTAP (vtiger cloud)
 5. Builder.io
 6. AppGyver (SAP)
+7. Vtiger
 
 
 ## Mail
@@ -144,6 +145,13 @@ We have 2 separate purposes of Utlizing AI models
 
 - AgentGPT - https://agentgpt.reworkd.ai/
 - BabyAGI
+
+## Security
+These are tools which can be used to validate the web application and code security
+1. Qualys - Web server vulnerability  and security assesment tool
+2. VirusTotal - File scanning tool
+3. Ubuntu Pro - Ensure server security (Platform level)
+
 
 
 
